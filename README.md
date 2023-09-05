@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Peter Adaaku Jr</h1>
 <h3 align="center">Engineering with Go-ethereum</h3>
-<h4 align="center">I'm on a journey to master the art of developing and maintaining Geth nodes, and have experience working with Ethereum's decentralized applications and smart contracts.
+<p align="center">I'm on a journey to master the art of developing and maintaining Geth nodes, and have experience working with Ethereum's decentralized applications and smart contracts.
 
 I have a solid foundation of the Ethereum blockchain and its underlying technology. I'm steadily gaining proficiency in utilizing various Geth commands and APIs to interact with the Ethereum network.
 
 Additionally, I'm actively learning about Optimism's OP Stack, an exciting piece of software that powers Optimism and simplifies the creation of Layer 2 blockchains.
 
-My passion for blockchain technology knows no bounds. I'm a dedicated member of the Ethereum Protocol Fellowship Cohort-IV and I am resolutely committed to advancing this transformative technology, and my fervor propels me toward contributing to impactful open-source projects, further expanding my horizons.</h4>
+My passion for blockchain technology knows no bounds. I'm a dedicated member of the Ethereum Protocol Fellowship Cohort-IV and I am resolutely committed to advancing this transformative technology, and my fervor propels me toward contributing to impactful open-source projects, further expanding my horizons.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scarfacedotcom&label=Profile%20views&color=0e75b6&style=flat" alt="scarfacedotcom" /> </p>
 
