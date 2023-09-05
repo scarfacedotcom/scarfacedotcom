@@ -18,7 +18,7 @@ My passion for blockchain technology knows no bounds. I'm a dedicated member of 
 
 - 🔭 I’m currently working on [a Go-Ethereum Fuzzer](https://github.com/scarfacedotcom)
 
-- 🌱 I’m currently learning **Go-Etheruem, Solidity**
+- 🌱 I’m currently learning **Go-Etheruem**
 
 - 👯 I’m currently collaborating on [Ethereum Protocal Fellowship](https://github.com/eth-protocol-fellows/cohort-four)
 
